@@ -14,4 +14,11 @@
     echo(date('d.m.Y.'));
     ?>
 </p>
+<p>
+    <?php
+
+    $dana_do_praznika=45;
+    echo('Do praznika je ostalo jos: <b>' . $dana_do_praznika);
+    ?>
+</p>
 </html>
