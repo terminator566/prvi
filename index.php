@@ -1,9 +1,11 @@
 <!DOCTYPE html>
+
 <html>
 <head>
     <title>Naslov</title>
 </head>
 
+    <link rel="stylesheet" type="text/css" href="pravila.css">
 <body>
 <h1>Prvi</h1>
 </body>
